@@ -5,7 +5,7 @@ The code in this repository was used on Prague Lambda meetup on April
 
 # Property based testing
 
-- John Hughes: Testing the Hard Stuff and Staying Sane ([vide](https://www.youtube.com/watch?v=zi0rHwfiX1Q) from Clojure/West 2014)
+- [John Hughes: Testing the Hard Stuff and Staying Sane](https://www.youtube.com/watch?v=zi0rHwfiX1Q) (video from Clojure/West 2014)
 
 # Red-black trees
 
